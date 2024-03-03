@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d75fbd0de7026e40acd1537ec85faf4, type: 3}
+  m_Name: Level06 Scene Reference
+  m_EditorClassIdentifier: 
+  levelScene: {fileID: 102900000, guid: 6adce56660a714849943138f6b48d067, type: 3}
+  _levelName: "\u041F\u0440\u0438\u043B\u0443\u043D\u0435\u043D\u0438\u0435"
+  _levelId: 6
+  levelSprite: {fileID: 21300000, guid: d0f7b0996243ce5499aa7ad22d9880e4, type: 3}
+  isLevelBlocked: 1
+  levelPrice: 4000
+  highScore: 0
+  levelPath: Assets/DownHill/Scenes/Levels/Level06.unity

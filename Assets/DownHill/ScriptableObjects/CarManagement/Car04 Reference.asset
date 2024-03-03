@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccab2a123f1ec6b4db694bbd0898f6be, type: 3}
+  m_Name: Car04 Reference
+  m_EditorClassIdentifier: 
+  carId: 4
+  carName: HardOne
+  isBlocked: 1
+  carPrice: 10000
+  carPrefab: {fileID: 1867753502225919441, guid: a2f7233a66ec7524da7fc4fa82f5d8df, type: 3}
+  carMeshPrefab: {fileID: 1867753502225919441, guid: 031966483e6c18a4e92066f98c415c44, type: 3}

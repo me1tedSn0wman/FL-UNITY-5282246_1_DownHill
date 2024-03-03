@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccab2a123f1ec6b4db694bbd0898f6be, type: 3}
+  m_Name: Car02 Reference
+  m_EditorClassIdentifier: 
+  carId: 2
+  carName: Beetle
+  isBlocked: 0
+  carPrice: 0
+  carPrefab: {fileID: 1406957652543316141, guid: 7365a6bd5475f0b4282e99db8c8caaa4, type: 3}
+  carMeshPrefab: {fileID: 1406957652543316141, guid: 2efce9886f9e15f4eba9412357824954, type: 3}
