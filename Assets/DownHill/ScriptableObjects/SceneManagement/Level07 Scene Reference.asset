@@ -9,14 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d75fbd0de7026e40acd1537ec85faf4, type: 3}
+  m_Script: {fileID: 11500000, guid: 5d870013b4fbd4d4e8a446bf0dcfe4a4, type: 3}
   m_Name: Level07 Scene Reference
   m_EditorClassIdentifier: 
   levelScene: {fileID: 102900000, guid: a3ddb7716950d324b89a84d8187a6dab, type: 3}
-  _levelName: "\u0413\u043E\u0440\u044F\u0449\u0435\u0435 \u043A\u043E\u043B\u0435\u0441\u043E"
+  _levelName: "\u041A\u043E\u043B\u0435\u0441\u043E"
   _levelId: 7
   levelSprite: {fileID: 21300000, guid: dd0fec114d8c859469def98ce60d078a, type: 3}
-  isLevelBlocked: 1
-  levelPrice: 4000
+  isLevelBlocked: 0
+  levelPrice: 0
   highScore: 0
   levelPath: Assets/DownHill/Scenes/Levels/Level07.unity
